@@ -1,0 +1,42 @@
+1. Percentage Distribution of Employees by Team
+  A bar chart illustrates the percentage of employees across different NBA teams. The distribution highlights the variation in team sizes, with some teams employing a higher percentage of players.
+
+2. Percentage Distribution by Position
+  A pie chart shows the distribution of players across positions:
+
+      SG (Shooting Guard) has the highest representation (23.8%).
+      PF (Power Forward) and PG (Point Guard) follow with notable shares.
+      C (Center) has the least representation at 13.7%.
+
+3. Frequency of Employees by Age
+  An area chart displays the distribution of players' ages.
+
+      The majority of players fall between 24–28 years, indicating this as the prime age range.
+      The number of players declines steadily after age 30.
+
+4. Salary Heatmap by Position and Team
+  A heatmap shows salary distributions across teams and positions:
+
+      Significant variations exist among teams, with Centers (C) and Shooting Guards (SG) receiving higher salaries in many cases.
+      Teams like the Los Angeles Lakers and Golden State Warriors have higher overall salaries.
+
+5. Scatter Plot: Age vs Salary
+  The scatter plot analyzes the relationship between age and salary:
+
+      A weak positive correlation exists, indicating that older, experienced players tend to earn higher salaries.
+      The trend line highlights a general rise in salaries up to mid-30s, after which the pattern flattens.
+
+6. Box Plot: Salary Distribution Across Age Groups
+  The box plot divides players into age groups to analyze salary distributions:
+
+      23–31 years (mid-career) players have the highest median salaries and wide variability, with numerous high-paid outliers.
+      18–23 years players earn lower salaries due to limited experience.
+      Salaries decline in the 35+ age groups, reflecting fewer top-tier earners.
+
+
+Conclusion
+  This analysis reveals key trends:
+
+      Salaries peak during the mid-20s to early-30s age range.
+      Positional and team-based salary disparities exist, with SG, C, and star players contributing to outliers.
+      Younger and older players generally earn lower salaries, aligning with their career progression and experience.
